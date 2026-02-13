@@ -13,6 +13,13 @@ Fast-forward through artifact creation - generate everything needed to start imp
 
 **Input**: The user's request should include a change name (kebab-case) OR a description of what they want to build.
 
+**Language Requirement**
+
+All work for this change MUST be done in **Chinese (中文)**:
+- All generated documents (proposal, design, specs, tasks) must be written in Chinese
+- All code comments must be in Chinese
+- All communication and explanations must be in Chinese
+
 **Steps**
 
 1. **If no clear input provided, ask what they want to build**

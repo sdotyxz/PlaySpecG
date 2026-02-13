@@ -13,6 +13,13 @@ Continue working on a change by creating the next artifact.
 
 **Input**: Optionally specify a change name. If omitted, check if it can be inferred from conversation context. If vague or ambiguous you MUST prompt for available changes.
 
+**Language Requirement**
+
+All work for this change MUST be done in **Chinese (中文)**:
+- All generated documents (proposal, design, specs, tasks) must be written in Chinese
+- All code comments must be in Chinese
+- All communication and explanations must be in Chinese
+
 **Steps**
 
 1. **If no change name provided, prompt for selection**

@@ -13,6 +13,12 @@ Archive a completed change in the experimental workflow.
 
 **Input**: Optionally specify a change name. If omitted, check if it can be inferred from conversation context. If vague or ambiguous you MUST prompt for available changes.
 
+**Language Requirement**
+
+All work MUST be done in **Chinese (中文)**:
+- All archive summaries and documentation must be in Chinese
+- All communication and explanations must be in Chinese
+
 **Steps**
 
 1. **If no change name provided, prompt for selection**

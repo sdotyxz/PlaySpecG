@@ -13,6 +13,13 @@ Implement tasks from an OpenSpec change.
 
 **Input**: Optionally specify a change name. If omitted, check if it can be inferred from conversation context. If vague or ambiguous you MUST prompt for available changes.
 
+**Language Requirement**
+
+All work for this change MUST be done in **Chinese (中文)**:
+- All code must be written with Chinese comments
+- All commit messages must be in Chinese
+- All communication and explanations must be in Chinese
+
 **Steps**
 
 1. **Select the change**
